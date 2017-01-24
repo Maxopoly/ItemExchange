@@ -1,8 +1,8 @@
 name: ItemExchange
 main: com.untamedears.ItemExchange.ItemExchangePlugin
 author: gmlaxfanatic
-version: 1.0.0
-depend: [NameLayer, Citadel]
+version: 1.0.1
+depend:
 commands:
   iecreate:
     aliases: iec
